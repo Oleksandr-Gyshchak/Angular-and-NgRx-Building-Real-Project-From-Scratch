@@ -50,6 +50,22 @@ Package                      Version
     $ cd client
     $ npm start
 
+<br/>
+
+### 002 Почему нам нужен NgRx? (Wrapper над Redux для Angular)
+
+<br/>
+
+### 003 Планируем структуру проекта
+
+<br/>
+
+### 004 Prettier - инструмент автоформатирования кода
+
+<br/>
+
+### 005 Зачем нам language server?
+
 ---
 
 <br/>
