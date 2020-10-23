@@ -2,12 +2,12 @@
 
 <br/>
 
-**Пример:**  
+**Пример ожидаемого финального проекта:**  
 http://angular.realworld.io/
 
 <br/>
 
-### [Development step by step](./Development.md)
+### [Разработка по шагам](./Development.md)
 
 <br/>
 

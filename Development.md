@@ -2,6 +2,10 @@
 
 <br/>
 
+# Разработка по шагам
+
+<br/>
+
 ## 01 Подготовка проекта
 
 <br/>
@@ -65,6 +69,20 @@ Package                      Version
 <br/>
 
 ### 005 Зачем нам language server?
+
+<br/>
+
+## 02 Модуль регистрации
+
+<br/>
+
+### 006 Модуль регистрации
+
+http://localhost:4200/register
+
+<br/>
+
+![Application](/img/pic-m02-p01.png?raw=true)
 
 ---
 
