@@ -84,6 +84,14 @@ http://localhost:4200/register
 
 ![Application](/img/pic-m02-p01.png?raw=true)
 
+<br/>
+
+### 007 Делаем разметку регистрации
+
+<br/>
+
+![Application](/img/pic-m02-p02.png?raw=true)
+
 ---
 
 <br/>
