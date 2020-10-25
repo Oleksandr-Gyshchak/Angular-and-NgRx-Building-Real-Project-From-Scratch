@@ -92,6 +92,14 @@ http://localhost:4200/register
 
 ![Application](/img/pic-m02-p02.png?raw=true)
 
+<br/>
+
+### 008 Устанавливаем NgRx
+
+https://ngrx.io/
+
+    $ npm install @ngrx/stor
+
 ---
 
 <br/>
