@@ -104,7 +104,7 @@ https://ngrx.io/
 
 ### 009 Как дебажить NgRx?
 
-Установить
+**Установить**
 
 https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
 
@@ -118,7 +118,11 @@ https://ngrx.io/guide/store-devtools
 
 <br/>
 
-![Application](/img/pic-m02-p02.png?raw=true)
+![Application](/img/pic-m02-p03.png?raw=true)
+
+<br/>
+
+### 010 Создаем интерфейсы для модуля авторизации
 
 ---
 
