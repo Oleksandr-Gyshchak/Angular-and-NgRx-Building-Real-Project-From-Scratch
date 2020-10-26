@@ -124,6 +124,14 @@ https://ngrx.io/guide/store-devtools
 
 ### 010 Создаем интерфейсы для модуля авторизации
 
+<br/>
+
+### 011 Добавляем редьюсеры для модуля авторизации
+
+<br/>
+
+![Application](/img/pic-m02-p04.png?raw=true)
+
 ---
 
 <br/>
