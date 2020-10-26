@@ -100,6 +100,26 @@ https://ngrx.io/
 
     $ npm install @ngrx/stor
 
+<br/>
+
+### 009 Как дебажить NgRx?
+
+Установить
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+
+<br/>
+
+https://ngrx.io/guide/store-devtools
+
+<br/>
+
+    $ npm install @ngrx/store-devtools
+
+<br/>
+
+![Application](/img/pic-m02-p02.png?raw=true)
+
 ---
 
 <br/>
