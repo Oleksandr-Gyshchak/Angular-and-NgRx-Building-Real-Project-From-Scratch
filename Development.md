@@ -132,6 +132,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m02-p04.png?raw=true)
 
+<br/>
+
+### 012 Создаем селекторы для модуля авторизации
+
+<br/>
+
+![Application](/img/pic-m02-p05.png?raw=true)
+
 ---
 
 <br/>
