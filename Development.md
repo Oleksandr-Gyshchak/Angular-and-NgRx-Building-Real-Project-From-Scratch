@@ -148,6 +148,16 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m02-p06.png?raw=true)
 
+<br/>
+
+### 014 Добавляем сайд эффекты регистрации
+
+    $ npm install --save @ngrx/effects
+
+<br/>
+
+![Application](/img/pic-m02-p07.png?raw=true)
+
 ---
 
 <br/>
