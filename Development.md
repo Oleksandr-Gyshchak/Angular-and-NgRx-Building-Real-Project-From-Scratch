@@ -158,6 +158,18 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m02-p07.png?raw=true)
 
+<br/>
+
+### 015 Обновляем редьюсеры авторизации
+
+<br/>
+
+![Application](/img/pic-m02-p08.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p09.png?raw=true)
+
 ---
 
 <br/>
