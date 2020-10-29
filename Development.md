@@ -170,6 +170,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m02-p09.png?raw=true)
 
+<br/>
+
+### 016 Реализуем модуль для отрисовки ошибок бекенда
+
+<br/>
+
+![Application](/img/pic-m02-p10.png?raw=true)
+
 ---
 
 <br/>
