@@ -178,6 +178,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m02-p10.png?raw=true)
 
+<br/>
+
+### 017 Создаем persistence сервис
+
+<br/>
+
+![Application](/img/pic-m02-p11.png?raw=true)
+
 ---
 
 <br/>
