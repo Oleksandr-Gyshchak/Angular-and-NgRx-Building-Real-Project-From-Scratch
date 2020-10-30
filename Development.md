@@ -194,6 +194,18 @@ https://ngrx.io/guide/store-devtools
 
 ### 018 Подготавливаем стор для страницы логина
 
+<br/>
+
+### 019 Отрисовываем страницу логина
+
+<br/>
+
+![Application](/img/pic-m02-p12.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m02-p13.png?raw=true)
+
 ---
 
 <br/>
