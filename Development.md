@@ -186,6 +186,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m02-p11.png?raw=true)
 
+<br/>
+
+## 03 Модуль логина
+
+<br/>
+
+### 018 Подготавливаем стор для страницы логина
+
 ---
 
 <br/>
