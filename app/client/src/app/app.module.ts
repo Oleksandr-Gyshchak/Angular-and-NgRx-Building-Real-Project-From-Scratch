@@ -7,6 +7,7 @@ import { StoreDevtoolsModule } from '@ngrx/store-devtools';
 import { AppRoutingModule } from 'src/app/app-routing.module';
 import { AppComponent } from 'src/app/app.component';
 import { AuthModule } from 'src/app/auth/auth.module';
+import { TopBarModule } from 'src/app/shared/modules/topBar/topBar.module';
 import { environment } from 'src/environments/environment';
 
 @NgModule({
@@ -22,6 +23,7 @@ import { environment } from 'src/environments/environment';
       maxAge: 25, // Retains last 25 states
       logOnly: environment.production, // Restrict extension to log-only mode
     }),
+    TopBarModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

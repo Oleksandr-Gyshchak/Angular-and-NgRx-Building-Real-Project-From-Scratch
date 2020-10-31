@@ -200,11 +200,19 @@ https://ngrx.io/guide/store-devtools
 
 <br/>
 
-![Application](/img/pic-m02-p12.png?raw=true)
+![Application](/img/pic-m03-p01.png?raw=true)
 
 <br/>
 
-![Application](/img/pic-m02-p13.png?raw=true)
+![Application](/img/pic-m03-p02.png?raw=true)
+
+<br/>
+
+### 020 Добавляем модуль верхнего меню
+
+<br/>
+
+![Application](/img/pic-m03-p03.png?raw=true)
 
 ---
 
