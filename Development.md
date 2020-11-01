@@ -214,6 +214,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m03-p03.png?raw=true)
 
+<br/>
+
+### 021 Реализуем получение текущего юзера при загрузке страницы
+
+<br/>
+
+![Application](/img/pic-m03-p04.png?raw=true)
+
 ---
 
 <br/>
