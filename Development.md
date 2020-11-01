@@ -222,6 +222,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m03-p04.png?raw=true)
 
+<br/>
+
+### 022 Создаем интерсептор для авторизации
+
+<br/>
+
+![Application](/img/pic-m03-p05.png?raw=true)
+
 ---
 
 <br/>
