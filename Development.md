@@ -230,6 +230,22 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m03-p05.png?raw=true)
 
+<br/>
+
+## 04 Модуль фида
+
+<br/>
+
+### 023 Планируем фид модуль
+
+<br/>
+
+### 024 Создаем модуль фида
+
+<br/>
+
+![Application](/img/pic-m04-p01.png?raw=true)
+
 ---
 
 <br/>

@@ -7,6 +7,7 @@ import { StoreDevtoolsModule } from '@ngrx/store-devtools';
 import { AppRoutingModule } from 'src/app/app-routing.module';
 import { AppComponent } from 'src/app/app.component';
 import { AuthModule } from 'src/app/auth/auth.module';
+import { GlobalFeedModule } from 'src/app/globalFeed/globalFeed.module';
 import { TopBarModule } from 'src/app/shared/modules/topBar/topBar.module';
 import { AuthInterceptor } from 'src/app/shared/services/authInterceptor.service';
 import { PersistanceService } from 'src/app/shared/services/persistance.service';
@@ -26,6 +27,7 @@ import { environment } from 'src/environments/environment';
       logOnly: environment.production, // Restrict extension to log-only mode
     }),
     TopBarModule,
+    GlobalFeedModule,
   ],
   providers: [
     PersistanceService,
