@@ -246,6 +246,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m04-p01.png?raw=true)
 
+<br/>
+
+### 025 Подготавливаем стор для фида
+
+<br/>
+
+![Application](/img/pic-m04-p02.png?raw=true)
+
 ---
 
 <br/>
