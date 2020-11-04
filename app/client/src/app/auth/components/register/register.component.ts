@@ -8,7 +8,7 @@ import {
   isSubmittingSelector,
   validationErrorsSelector,
 } from 'src/app/auth/store/selectors';
-import { RegistgerRequestInteface } from 'src/app/auth/types/registerRequest.interface';
+import { RegisterRequestInterface } from 'src/app/auth/types/registerRequest.interface';
 import { BackendErrorsInterface } from 'src/app/shared/types/backendErrors.interface';
 @Component({
   selector: 'mc-register',
@@ -48,7 +48,7 @@ export class RegisterComponent implements OnInit {
 
   onSubmit(): void {
     console.log(this.form.value);
-    const request: RegistgerRequestInteface = {
+    const request: RegisterRequestInterface = {
       user: this.form.value,
     };
     this.store.dispatch(registerAction({ request }));

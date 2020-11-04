@@ -15,7 +15,6 @@ export class BackendErrorMessagesComponent implements OnInit {
     this.errorMessages = Object.keys(this.backendErrorsProps).map(
       (name: string) => {
         const messages = this.backendErrorsProps[name].join(', ');
-
         return `${name} ${messages}`;
       }
     );

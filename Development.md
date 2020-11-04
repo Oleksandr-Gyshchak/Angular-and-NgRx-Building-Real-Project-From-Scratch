@@ -254,6 +254,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m04-p02.png?raw=true)
 
+<br/>
+
+### 026 Получаем данные фида для отрисовки
+
+<br/>
+
+![Application](/img/pic-m04-p03.png?raw=true)
+
 ---
 
 <br/>

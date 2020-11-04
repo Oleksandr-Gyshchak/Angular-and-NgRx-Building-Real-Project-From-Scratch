@@ -4,7 +4,7 @@ import {
   getFeedFailureAction,
   getFeedSuccessAction,
 } from 'src/app/shared/modules/feed/store/actions/getFeed.action';
-import { FeedStateInterface } from 'src/app/shared/modules/feed/types/feedState.inteface';
+import { FeedStateInterface } from 'src/app/shared/modules/feed/types/feedState.interface';
 
 const initialState: FeedStateInterface = {
   isLoading: false,

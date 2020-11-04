@@ -8,7 +8,7 @@ import {
   isSubmittingSelector,
   validationErrorsSelector,
 } from 'src/app/auth/store/selectors';
-import { LoginRequestInteface } from 'src/app/auth/types/loginRequest.interface';
+import { LoginRequestInterface } from 'src/app/auth/types/loginRequest.interface';
 import { BackendErrorsInterface } from 'src/app/shared/types/backendErrors.interface';
 @Component({
   selector: 'mc-login',
@@ -47,7 +47,7 @@ export class LoginComponent implements OnInit {
 
   onSubmit(): void {
     console.log(this.form.value);
-    const request: LoginRequestInteface = {
+    const request: LoginRequestInterface = {
       user: this.form.value,
     };
     this.store.dispatch(loginAction({ request }));
