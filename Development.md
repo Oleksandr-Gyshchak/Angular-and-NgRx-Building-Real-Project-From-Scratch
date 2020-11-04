@@ -262,6 +262,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m04-p03.png?raw=true)
 
+<br/>
+
+### 027 Добавляем вспомогательные компоненты
+
+<br/>
+
+![Application](/img/pic-m04-p04.png?raw=true)
+
 ---
 
 <br/>
