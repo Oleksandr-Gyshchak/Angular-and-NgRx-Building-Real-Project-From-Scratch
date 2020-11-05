@@ -274,6 +274,14 @@ https://ngrx.io/guide/store-devtools
 
 ### 028 Реализуем модуль пагинации. Часть 1
 
+<br/>
+
+### 029 Реализуем модуль пагинации. Часть 2
+
+<br/>
+
+![Application](/img/pic-m04-p05.png?raw=true)
+
 ---
 
 <br/>

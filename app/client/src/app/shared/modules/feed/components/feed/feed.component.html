@@ -21,11 +21,11 @@
     <a [routerLink]="['/articles', article.slug]" class="author">
       <h1>
         {{ article.title }}
-      </h1>
-      <p>{{ article.description }}</p>
-      <span>Read more..</span>
-      HERE IS LIST OF TAGS
-    </a>
+      </h1></a
+    >
+    <p>{{ article.description }}</p>
+    <span>Read more..</span>
+    HERE IS LIST OF TAGS
   </div>
   <mc-pagination
     [total]="(feed$ | async)?.articlesCount"
