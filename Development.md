@@ -282,6 +282,17 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m04-p05.png?raw=true)
 
+<br/>
+
+### 030 Перефетчиваем данные фида правильно
+
+    $ npm install --save query-string
+    $ npm install --save @ngrx/router-store
+
+<br/>
+
+![Application](/img/pic-m04-p06.png?raw=true)
+
 ---
 
 <br/>
