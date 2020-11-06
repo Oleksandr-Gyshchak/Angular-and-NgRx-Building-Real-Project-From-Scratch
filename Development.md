@@ -293,6 +293,18 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m04-p06.png?raw=true)
 
+<br/>
+
+## 05 Дополнительные модули
+
+<br/>
+
+### 031 Реализуем модуль списка тегов
+
+<br/>
+
+![Application](/img/pic-m05-p01.png?raw=true)
+
 ---
 
 <br/>

@@ -24,8 +24,7 @@
       </h1></a
     >
     <p>{{ article.description }}</p>
-    <span>Read more..</span>
-    HERE IS LIST OF TAGS
+    <mc-tag-list [tags]="article.tagList"></mc-tag-list>
   </div>
   <mc-pagination
     [total]="(feed$ | async)?.articlesCount"
