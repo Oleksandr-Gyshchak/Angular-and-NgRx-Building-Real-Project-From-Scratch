@@ -305,6 +305,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m05-p01.png?raw=true)
 
+<br/>
+
+### 032 Реализуем модуль популярных тегов
+
+<br/>
+
+![Application](/img/pic-m05-p02.png?raw=true)
+
 ---
 
 <br/>
