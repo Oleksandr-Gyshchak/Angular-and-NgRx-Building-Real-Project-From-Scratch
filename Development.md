@@ -321,6 +321,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m05-p03.png?raw=true)
 
+<br/>
+
+### 034 Создаем другие фиды
+
+<br/>
+
+![Application](/img/pic-m05-p04.png?raw=true)
+
 ---
 
 <br/>
