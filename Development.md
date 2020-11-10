@@ -329,6 +329,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m05-p04.png?raw=true)
 
+<br/>
+
+## 06 Модули работы с отдельным постом
+
+<br/>
+
+### 035 Реализуем страницу отдельного поста
+
 ---
 
 <br/>
