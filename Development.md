@@ -337,6 +337,14 @@ https://ngrx.io/guide/store-devtools
 
 ### 035 Реализуем страницу отдельного поста
 
+<br/>
+
+### 036 Отрисовываем страницу отдельного поста
+
+<br/>
+
+![Application](/img/pic-m06-p01.png?raw=true)
+
 ---
 
 <br/>
