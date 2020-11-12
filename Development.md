@@ -359,6 +359,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m06-p03.png?raw=true)
 
+<br/>
+
+### 038 Реализуем страницу создания нового поста
+
+<br/>
+
+![Application](/img/pic-m06-p04.png?raw=true)
+
 ---
 
 <br/>

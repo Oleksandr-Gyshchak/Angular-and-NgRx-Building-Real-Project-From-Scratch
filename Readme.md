@@ -2,6 +2,10 @@
 
 <br/>
 
+**Angular 11**
+
+<br/>
+
 **Пример ожидаемого финального проекта:**  
 http://angular.realworld.io/
 
