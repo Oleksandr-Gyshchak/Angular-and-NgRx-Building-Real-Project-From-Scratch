@@ -345,6 +345,20 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m06-p01.png?raw=true)
 
+<br/>
+
+### 037 Добавляем удаление отдельного поста
+
+Создаем пост на http://angular.realworld.io/
+
+<br/>
+
+![Application](/img/pic-m06-p02.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m06-p03.png?raw=true)
+
 ---
 
 <br/>
