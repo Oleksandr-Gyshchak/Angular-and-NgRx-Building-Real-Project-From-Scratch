@@ -4,7 +4,7 @@
       <div class="col-md-10 offset-md-1 col-xs-12">
         <mc-backend-error-messages
           *ngIf="errorsProps"
-          [backendError]="errorsProps"
+          [backendErrors]="errorsProps"
         ></mc-backend-error-messages>
         <form [formGroup]="form" (ngSubmit)="onSubmit()">
           <fieldset>

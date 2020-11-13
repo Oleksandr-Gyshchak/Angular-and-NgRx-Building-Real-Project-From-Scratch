@@ -375,6 +375,22 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m06-p05.png?raw=true)
 
+<br/>
+
+### 040 Добавляем стор для страницы создания нового поста
+
+<br/>
+
+![Application](/img/pic-m06-p06.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m06-p07.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m06-p08.png?raw=true)
+
 ---
 
 <br/>
