@@ -367,6 +367,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m06-p04.png?raw=true)
 
+<br/>
+
+### 039 Создаем форму работы с полями поста
+
+<br/>
+
+![Application](/img/pic-m06-p05.png?raw=true)
+
 ---
 
 <br/>
