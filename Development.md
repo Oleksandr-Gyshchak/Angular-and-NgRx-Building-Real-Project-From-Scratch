@@ -399,6 +399,18 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m06-p09.png?raw=true)
 
+<br/>
+
+## 07 Вспомогательные модули
+
+<br/>
+
+### 042 Создаем страницу настроек пользователя
+
+<br/>
+
+![Application](/img/pic-m07-p01.png?raw=true)
+
 ---
 
 <br/>

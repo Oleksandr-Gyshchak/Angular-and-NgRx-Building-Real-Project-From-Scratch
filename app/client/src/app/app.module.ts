@@ -12,6 +12,7 @@ import { AuthModule } from 'src/app/auth/auth.module';
 import { CreateArticleModule } from 'src/app/createArticle/createArticle.module';
 import { EditArticleModule } from 'src/app/editArticle/editArticle.module';
 import { GlobalFeedModule } from 'src/app/globalFeed/globalFeed.module';
+import { SettingsModule } from 'src/app/settings/settings.module';
 import { TopBarModule } from 'src/app/shared/modules/topBar/topBar.module';
 import { AuthInterceptor } from 'src/app/shared/services/authInterceptor.service';
 import { PersistanceService } from 'src/app/shared/services/persistance.service';
@@ -39,7 +40,8 @@ import { environment } from 'src/environments/environment';
     TagFeedModule,
     CreateArticleModule,
     ArticleModule,
-    EditArticleModule
+    EditArticleModule,
+    SettingsModule,
   ],
   providers: [
     PersistanceService,
