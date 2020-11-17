@@ -423,6 +423,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m07-p03.png?raw=true)
 
+<br/>
+
+### 044 Реализуем модуль лайков и дизлайков
+
+<br/>
+
+![Application](/img/pic-m07-p04.png?raw=true)
+
 ---
 
 <br/>
