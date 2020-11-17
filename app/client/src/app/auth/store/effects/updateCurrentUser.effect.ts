@@ -6,9 +6,9 @@ import { catchError, map, switchMap } from 'rxjs/operators';
 import { AuthService } from 'src/app/auth/services/auth.service';
 import {
   updateCurrentUserAction,
+  updateCurrentUserFailureAction,
   updateCurrentUserSuccessAction,
 } from 'src/app/auth/store/actions/updateCurrentUser.action';
-import { updateArticleFailureAction } from 'src/app/editArticle/store/actions/updateArticle.action';
 import { CurrentUserInterface } from 'src/app/shared/types/currentUser.interface';
 
 @Injectable()
@@ -23,7 +23,9 @@ export class UpdateCurrentUserEffect {
           }),
           catchError((errorResponse: HttpErrorResponse) => {
             return of(
-              updateArticleFailureAction({ errors: errorResponse.error.errors })
+              updateCurrentUserFailureAction({
+                errors: errorResponse.error.errors,
+              })
             );
           })
         );

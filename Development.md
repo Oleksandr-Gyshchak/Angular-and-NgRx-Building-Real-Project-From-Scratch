@@ -411,6 +411,18 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m07-p01.png?raw=true)
 
+<br/>
+
+### 043 Отрисовываем страницу настроек пользователя
+
+<br/>
+
+![Application](/img/pic-m07-p02.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m07-p03.png?raw=true)
+
 ---
 
 <br/>
