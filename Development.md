@@ -431,6 +431,14 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m07-p04.png?raw=true)
 
+<br/>
+
+### 045 Добавляем стор для модуля лайков и дизлайков
+
+<br/>
+
+![Application](/img/pic-m07-p05.png?raw=true)
+
 ---
 
 <br/>
