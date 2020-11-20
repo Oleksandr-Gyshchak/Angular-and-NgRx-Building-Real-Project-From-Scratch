@@ -447,6 +447,18 @@ https://ngrx.io/guide/store-devtools
 
 ![Application](/img/pic-m07-p06.png?raw=true)
 
+<br/>
+
+### 047 Отрисовываем страницу профиля пользователя
+
+<br/>
+
+![Application](/img/pic-m07-p07.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-m07-p08.png?raw=true)
+
 ---
 
 <br/>

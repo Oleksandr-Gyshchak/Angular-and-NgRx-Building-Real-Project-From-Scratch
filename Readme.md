@@ -6,6 +6,10 @@
 
 <br/>
 
+![Application](/img/pic-final-01.png?raw=true)
+
+<br/>
+
 **Пример ожидаемого финального проекта:**  
 http://angular.realworld.io/
 
