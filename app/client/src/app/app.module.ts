@@ -17,6 +17,7 @@ import { TopBarModule } from 'src/app/shared/modules/topBar/topBar.module';
 import { AuthInterceptor } from 'src/app/shared/services/authInterceptor.service';
 import { PersistanceService } from 'src/app/shared/services/persistance.service';
 import { TagFeedModule } from 'src/app/tagFeed/tagFeed.module';
+import { UserProfileModule } from 'src/app/userProfile/userProfile.module';
 import { YourFeedModule } from 'src/app/yourFeed/yourFeed.module';
 import { environment } from 'src/environments/environment';
 
@@ -42,6 +43,7 @@ import { environment } from 'src/environments/environment';
     ArticleModule,
     EditArticleModule,
     SettingsModule,
+    UserProfileModule,
   ],
   providers: [
     PersistanceService,
