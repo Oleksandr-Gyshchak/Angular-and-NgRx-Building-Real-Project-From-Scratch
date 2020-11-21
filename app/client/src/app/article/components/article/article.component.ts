@@ -52,8 +52,6 @@ export class ArticleComponent implements OnInit, OnDestroy {
           ArticleInterface | null,
           CurrentUserInterface | null
         ]) => {
-          console.log('map', article, currentUser);
-
           if (!article || !currentUser) {
             return false;
           }

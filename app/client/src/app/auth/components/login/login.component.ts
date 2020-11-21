@@ -41,12 +41,9 @@ export class LoginComponent implements OnInit {
       email: ['', Validators.required],
       password: ['', Validators.required],
     });
-
-    console.log(this.form.valid);
   }
 
   onSubmit(): void {
-    console.log(this.form.value);
     const request: LoginRequestInterface = {
       user: this.form.value,
     };

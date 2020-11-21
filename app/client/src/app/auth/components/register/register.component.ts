@@ -42,12 +42,9 @@ export class RegisterComponent implements OnInit {
       email: ['', Validators.required],
       password: ['', Validators.required],
     });
-
-    console.log(this.form.valid);
   }
 
   onSubmit(): void {
-    console.log(this.form.value);
     const request: RegisterRequestInterface = {
       user: this.form.value,
     };
